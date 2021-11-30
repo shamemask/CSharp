@@ -1,0 +1,14 @@
+C:\Users\andde\Downloads\Unity\c#\Lesson 0\bin\Debug\netcoreapp3.1\Lesson 0.exe
+C:\Users\andde\Downloads\Unity\c#\Lesson 0\bin\Debug\netcoreapp3.1\Lesson 0.deps.json
+C:\Users\andde\Downloads\Unity\c#\Lesson 0\bin\Debug\netcoreapp3.1\Lesson 0.runtimeconfig.json
+C:\Users\andde\Downloads\Unity\c#\Lesson 0\bin\Debug\netcoreapp3.1\Lesson 0.runtimeconfig.dev.json
+C:\Users\andde\Downloads\Unity\c#\Lesson 0\bin\Debug\netcoreapp3.1\Lesson 0.dll
+C:\Users\andde\Downloads\Unity\c#\Lesson 0\bin\Debug\netcoreapp3.1\Lesson 0.pdb
+C:\Users\andde\Downloads\Unity\c#\Lesson 0\obj\Debug\netcoreapp3.1\Lesson 0.csproj.AssemblyReference.cache
+C:\Users\andde\Downloads\Unity\c#\Lesson 0\obj\Debug\netcoreapp3.1\Lesson 0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andde\Downloads\Unity\c#\Lesson 0\obj\Debug\netcoreapp3.1\Lesson 0.AssemblyInfoInputs.cache
+C:\Users\andde\Downloads\Unity\c#\Lesson 0\obj\Debug\netcoreapp3.1\Lesson 0.AssemblyInfo.cs
+C:\Users\andde\Downloads\Unity\c#\Lesson 0\obj\Debug\netcoreapp3.1\Lesson 0.csproj.CoreCompileInputs.cache
+C:\Users\andde\Downloads\Unity\c#\Lesson 0\obj\Debug\netcoreapp3.1\Lesson 0.dll
+C:\Users\andde\Downloads\Unity\c#\Lesson 0\obj\Debug\netcoreapp3.1\Lesson 0.pdb
+C:\Users\andde\Downloads\Unity\c#\Lesson 0\obj\Debug\netcoreapp3.1\Lesson 0.genruntimeconfig.cache
