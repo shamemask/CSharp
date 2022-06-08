@@ -1,0 +1,4 @@
+C:\Users\dartamonov\Documents\Git\C#\lesson 2\obj\Debug\netcoreapp3.1\lesson 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dartamonov\Documents\Git\C#\lesson 2\obj\Debug\netcoreapp3.1\lesson 2.AssemblyInfoInputs.cache
+C:\Users\dartamonov\Documents\Git\C#\lesson 2\obj\Debug\netcoreapp3.1\lesson 2.AssemblyInfo.cs
+C:\Users\dartamonov\Documents\Git\C#\lesson 2\obj\Debug\netcoreapp3.1\lesson 2.csproj.CoreCompileInputs.cache

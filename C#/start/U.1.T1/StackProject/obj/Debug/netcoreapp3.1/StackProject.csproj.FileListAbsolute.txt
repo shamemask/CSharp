@@ -1,0 +1,14 @@
+C:\Users\andde\Downloads\Unity\c#\U_1_T1\StackProject\bin\Debug\netcoreapp3.1\StackProject.exe
+C:\Users\andde\Downloads\Unity\c#\U_1_T1\StackProject\bin\Debug\netcoreapp3.1\StackProject.deps.json
+C:\Users\andde\Downloads\Unity\c#\U_1_T1\StackProject\bin\Debug\netcoreapp3.1\StackProject.runtimeconfig.json
+C:\Users\andde\Downloads\Unity\c#\U_1_T1\StackProject\bin\Debug\netcoreapp3.1\StackProject.runtimeconfig.dev.json
+C:\Users\andde\Downloads\Unity\c#\U_1_T1\StackProject\bin\Debug\netcoreapp3.1\StackProject.dll
+C:\Users\andde\Downloads\Unity\c#\U_1_T1\StackProject\bin\Debug\netcoreapp3.1\StackProject.pdb
+C:\Users\andde\Downloads\Unity\c#\U_1_T1\StackProject\obj\Debug\netcoreapp3.1\StackProject.csproj.AssemblyReference.cache
+C:\Users\andde\Downloads\Unity\c#\U_1_T1\StackProject\obj\Debug\netcoreapp3.1\StackProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andde\Downloads\Unity\c#\U_1_T1\StackProject\obj\Debug\netcoreapp3.1\StackProject.AssemblyInfoInputs.cache
+C:\Users\andde\Downloads\Unity\c#\U_1_T1\StackProject\obj\Debug\netcoreapp3.1\StackProject.AssemblyInfo.cs
+C:\Users\andde\Downloads\Unity\c#\U_1_T1\StackProject\obj\Debug\netcoreapp3.1\StackProject.csproj.CoreCompileInputs.cache
+C:\Users\andde\Downloads\Unity\c#\U_1_T1\StackProject\obj\Debug\netcoreapp3.1\StackProject.dll
+C:\Users\andde\Downloads\Unity\c#\U_1_T1\StackProject\obj\Debug\netcoreapp3.1\StackProject.pdb
+C:\Users\andde\Downloads\Unity\c#\U_1_T1\StackProject\obj\Debug\netcoreapp3.1\StackProject.genruntimeconfig.cache

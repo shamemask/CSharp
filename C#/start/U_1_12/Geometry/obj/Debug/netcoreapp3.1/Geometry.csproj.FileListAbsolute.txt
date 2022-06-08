@@ -1,0 +1,9 @@
+C:\Users\andde\Downloads\Unity\c#\U_1_13 - Copy\Geometry\bin\Debug\netcoreapp3.1\Geometry.deps.json
+C:\Users\andde\Downloads\Unity\c#\U_1_13 - Copy\Geometry\bin\Debug\netcoreapp3.1\Geometry.dll
+C:\Users\andde\Downloads\Unity\c#\U_1_13 - Copy\Geometry\bin\Debug\netcoreapp3.1\Geometry.pdb
+C:\Users\andde\Downloads\Unity\c#\U_1_13 - Copy\Geometry\obj\Debug\netcoreapp3.1\Geometry.csprojAssemblyReference.cache
+C:\Users\andde\Downloads\Unity\c#\U_1_13 - Copy\Geometry\obj\Debug\netcoreapp3.1\Geometry.AssemblyInfoInputs.cache
+C:\Users\andde\Downloads\Unity\c#\U_1_13 - Copy\Geometry\obj\Debug\netcoreapp3.1\Geometry.AssemblyInfo.cs
+C:\Users\andde\Downloads\Unity\c#\U_1_13 - Copy\Geometry\obj\Debug\netcoreapp3.1\Geometry.csproj.CoreCompileInputs.cache
+C:\Users\andde\Downloads\Unity\c#\U_1_13 - Copy\Geometry\obj\Debug\netcoreapp3.1\Geometry.dll
+C:\Users\andde\Downloads\Unity\c#\U_1_13 - Copy\Geometry\obj\Debug\netcoreapp3.1\Geometry.pdb

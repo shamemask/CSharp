@@ -1,0 +1,13 @@
+C:\Users\andde\Downloads\Unity\c#\U_1_15\SequenceGenerator\obj\Debug\netcoreapp3.1\SequenceGenerator.csprojAssemblyReference.cache
+C:\Users\andde\Downloads\Unity\c#\U_1_15\SequenceGenerator\obj\Debug\netcoreapp3.1\SequenceGenerator.AssemblyInfoInputs.cache
+C:\Users\andde\Downloads\Unity\c#\U_1_15\SequenceGenerator\obj\Debug\netcoreapp3.1\SequenceGenerator.AssemblyInfo.cs
+C:\Users\andde\Downloads\Unity\c#\U_1_15\SequenceGenerator\obj\Debug\netcoreapp3.1\SequenceGenerator.csproj.CoreCompileInputs.cache
+C:\Users\andde\Downloads\Unity\c#\U_1_15\SequenceGenerator\bin\Debug\netcoreapp3.1\SequenceGenerator.exe
+C:\Users\andde\Downloads\Unity\c#\U_1_15\SequenceGenerator\bin\Debug\netcoreapp3.1\SequenceGenerator.deps.json
+C:\Users\andde\Downloads\Unity\c#\U_1_15\SequenceGenerator\bin\Debug\netcoreapp3.1\SequenceGenerator.runtimeconfig.json
+C:\Users\andde\Downloads\Unity\c#\U_1_15\SequenceGenerator\bin\Debug\netcoreapp3.1\SequenceGenerator.runtimeconfig.dev.json
+C:\Users\andde\Downloads\Unity\c#\U_1_15\SequenceGenerator\bin\Debug\netcoreapp3.1\SequenceGenerator.dll
+C:\Users\andde\Downloads\Unity\c#\U_1_15\SequenceGenerator\bin\Debug\netcoreapp3.1\SequenceGenerator.pdb
+C:\Users\andde\Downloads\Unity\c#\U_1_15\SequenceGenerator\obj\Debug\netcoreapp3.1\SequenceGenerator.dll
+C:\Users\andde\Downloads\Unity\c#\U_1_15\SequenceGenerator\obj\Debug\netcoreapp3.1\SequenceGenerator.pdb
+C:\Users\andde\Downloads\Unity\c#\U_1_15\SequenceGenerator\obj\Debug\netcoreapp3.1\SequenceGenerator.genruntimeconfig.cache

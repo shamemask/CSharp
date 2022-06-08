@@ -1,0 +1,7 @@
+C:\HWschool\C#\lesson_2\lesson_2\bin\Debug\lesson_2.exe.config
+C:\HWschool\C#\lesson_2\lesson_2\bin\Debug\lesson_2.exe
+C:\HWschool\C#\lesson_2\lesson_2\bin\Debug\lesson_2.pdb
+C:\HWschool\C#\lesson_2\lesson_2\obj\Debug\lesson_2.csprojAssemblyReference.cache
+C:\HWschool\C#\lesson_2\lesson_2\obj\Debug\lesson_2.csproj.CoreCompileInputs.cache
+C:\HWschool\C#\lesson_2\lesson_2\obj\Debug\lesson_2.exe
+C:\HWschool\C#\lesson_2\lesson_2\obj\Debug\lesson_2.pdb

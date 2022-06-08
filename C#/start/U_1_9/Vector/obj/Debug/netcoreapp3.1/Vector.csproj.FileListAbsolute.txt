@@ -1,0 +1,13 @@
+C:\Users\andde\Downloads\Unity\c#\Vector\bin\Debug\netcoreapp3.1\Vector.exe
+C:\Users\andde\Downloads\Unity\c#\Vector\bin\Debug\netcoreapp3.1\Vector.deps.json
+C:\Users\andde\Downloads\Unity\c#\Vector\bin\Debug\netcoreapp3.1\Vector.runtimeconfig.json
+C:\Users\andde\Downloads\Unity\c#\Vector\bin\Debug\netcoreapp3.1\Vector.runtimeconfig.dev.json
+C:\Users\andde\Downloads\Unity\c#\Vector\bin\Debug\netcoreapp3.1\Vector.dll
+C:\Users\andde\Downloads\Unity\c#\Vector\bin\Debug\netcoreapp3.1\Vector.pdb
+C:\Users\andde\Downloads\Unity\c#\Vector\obj\Debug\netcoreapp3.1\Vector.csprojAssemblyReference.cache
+C:\Users\andde\Downloads\Unity\c#\Vector\obj\Debug\netcoreapp3.1\Vector.AssemblyInfoInputs.cache
+C:\Users\andde\Downloads\Unity\c#\Vector\obj\Debug\netcoreapp3.1\Vector.AssemblyInfo.cs
+C:\Users\andde\Downloads\Unity\c#\Vector\obj\Debug\netcoreapp3.1\Vector.csproj.CoreCompileInputs.cache
+C:\Users\andde\Downloads\Unity\c#\Vector\obj\Debug\netcoreapp3.1\Vector.dll
+C:\Users\andde\Downloads\Unity\c#\Vector\obj\Debug\netcoreapp3.1\Vector.pdb
+C:\Users\andde\Downloads\Unity\c#\Vector\obj\Debug\netcoreapp3.1\Vector.genruntimeconfig.cache

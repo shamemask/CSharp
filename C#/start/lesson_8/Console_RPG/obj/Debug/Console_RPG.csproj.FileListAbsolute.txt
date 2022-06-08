@@ -1,0 +1,48 @@
+D:\HWS lessons C#\repos\lesson_3\Console_RPG\bin\Debug\Console_RPG.exe
+D:\HWS lessons C#\repos\lesson_3\Console_RPG\bin\Debug\Console_RPG.pdb
+D:\HWS lessons C#\repos\lesson_3\Console_RPG\obj\Debug\Console_RPG.csprojAssemblyReference.cache
+D:\HWS lessons C#\repos\lesson_3\Console_RPG\obj\Debug\Console_RPG.csproj.CoreCompileInputs.cache
+D:\HWS lessons C#\repos\lesson_3\Console_RPG\obj\Debug\Console_RPG.exe
+D:\HWS lessons C#\repos\lesson_3\Console_RPG\obj\Debug\Console_RPG.pdb
+D:\HWS lessons C#\repos\lesson_4\Console_RPG\bin\Debug\Console_RPG.exe
+D:\HWS lessons C#\repos\lesson_4\Console_RPG\bin\Debug\Console_RPG.pdb
+D:\HWS lessons C#\repos\lesson_4\Console_RPG\obj\Debug\Console_RPG.csprojAssemblyReference.cache
+D:\HWS lessons C#\repos\lesson_4\Console_RPG\obj\Debug\Console_RPG.csproj.CoreCompileInputs.cache
+D:\HWS lessons C#\repos\lesson_4\Console_RPG\obj\Debug\Console_RPG.exe
+D:\HWS lessons C#\repos\lesson_4\Console_RPG\obj\Debug\Console_RPG.pdb
+D:\HWS lessons C#\repos\lesson_5\Console_RPG\bin\Debug\Console_RPG.exe
+D:\HWS lessons C#\repos\lesson_5\Console_RPG\bin\Debug\Console_RPG.pdb
+D:\HWS lessons C#\repos\lesson_5\Console_RPG\obj\Debug\Console_RPG.csprojAssemblyReference.cache
+D:\HWS lessons C#\repos\lesson_5\Console_RPG\obj\Debug\Console_RPG.csproj.CoreCompileInputs.cache
+D:\HWS lessons C#\repos\lesson_5\Console_RPG\obj\Debug\Console_RPG.exe
+D:\HWS lessons C#\repos\lesson_5\Console_RPG\obj\Debug\Console_RPG.pdb
+D:\HWS lessons C#\repos\lesson_6\Console_RPG\bin\Debug\Console_RPG.exe
+D:\HWS lessons C#\repos\lesson_6\Console_RPG\bin\Debug\Console_RPG.pdb
+D:\HWS lessons C#\repos\lesson_6\Console_RPG\obj\Debug\Console_RPG.csprojAssemblyReference.cache
+D:\HWS lessons C#\repos\lesson_6\Console_RPG\obj\Debug\Console_RPG.csproj.CoreCompileInputs.cache
+D:\HWS lessons C#\repos\lesson_6\Console_RPG\obj\Debug\Console_RPG.exe
+D:\HWS lessons C#\repos\lesson_6\Console_RPG\obj\Debug\Console_RPG.pdb
+D:\HWS lessons C#\repos\lesson_7\Console_RPG\bin\Debug\Console_RPG.exe
+D:\HWS lessons C#\repos\lesson_7\Console_RPG\bin\Debug\Console_RPG.pdb
+D:\HWS lessons C#\repos\lesson_7\Console_RPG\obj\Debug\Console_RPG.csprojAssemblyReference.cache
+D:\HWS lessons C#\repos\lesson_7\Console_RPG\obj\Debug\Console_RPG.csproj.CoreCompileInputs.cache
+D:\HWS lessons C#\repos\lesson_7\Console_RPG\obj\Debug\Console_RPG.exe
+D:\HWS lessons C#\repos\lesson_7\Console_RPG\obj\Debug\Console_RPG.pdb
+D:\HWS lessons C#\repos\lesson_8\Console_RPG\bin\Debug\Console_RPG.exe
+D:\HWS lessons C#\repos\lesson_8\Console_RPG\bin\Debug\Console_RPG.pdb
+D:\HWS lessons C#\repos\lesson_8\Console_RPG\obj\Debug\Console_RPG.csprojAssemblyReference.cache
+D:\HWS lessons C#\repos\lesson_8\Console_RPG\obj\Debug\Console_RPG.csproj.CoreCompileInputs.cache
+D:\HWS lessons C#\repos\lesson_8\Console_RPG\obj\Debug\Console_RPG.exe
+D:\HWS lessons C#\repos\lesson_8\Console_RPG\obj\Debug\Console_RPG.pdb
+C:\Users\Andrey\Downloads\c#\lesson_8\Console_RPG\bin\Debug\Console_RPG.exe
+C:\Users\Andrey\Downloads\c#\lesson_8\Console_RPG\bin\Debug\Console_RPG.pdb
+C:\Users\Andrey\Downloads\c#\lesson_8\Console_RPG\obj\Debug\Console_RPG.csprojAssemblyReference.cache
+C:\Users\Andrey\Downloads\c#\lesson_8\Console_RPG\obj\Debug\Console_RPG.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Downloads\c#\lesson_8\Console_RPG\obj\Debug\Console_RPG.exe
+C:\Users\Andrey\Downloads\c#\lesson_8\Console_RPG\obj\Debug\Console_RPG.pdb
+C:\Users\andde\Downloads\Unity\c#\lesson_8\Console_RPG\bin\Debug\Console_RPG.exe
+C:\Users\andde\Downloads\Unity\c#\lesson_8\Console_RPG\bin\Debug\Console_RPG.pdb
+C:\Users\andde\Downloads\Unity\c#\lesson_8\Console_RPG\obj\Debug\Console_RPG.csprojAssemblyReference.cache
+C:\Users\andde\Downloads\Unity\c#\lesson_8\Console_RPG\obj\Debug\Console_RPG.csproj.CoreCompileInputs.cache
+C:\Users\andde\Downloads\Unity\c#\lesson_8\Console_RPG\obj\Debug\Console_RPG.exe
+C:\Users\andde\Downloads\Unity\c#\lesson_8\Console_RPG\obj\Debug\Console_RPG.pdb

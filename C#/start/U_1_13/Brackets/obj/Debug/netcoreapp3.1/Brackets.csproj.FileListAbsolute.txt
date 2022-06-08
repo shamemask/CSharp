@@ -1,0 +1,9 @@
+C:\Users\andde\Downloads\Unity\c#\U_1_14\Brackets\bin\Debug\netcoreapp3.1\Brackets.deps.json
+C:\Users\andde\Downloads\Unity\c#\U_1_14\Brackets\bin\Debug\netcoreapp3.1\Brackets.dll
+C:\Users\andde\Downloads\Unity\c#\U_1_14\Brackets\bin\Debug\netcoreapp3.1\Brackets.pdb
+C:\Users\andde\Downloads\Unity\c#\U_1_14\Brackets\obj\Debug\netcoreapp3.1\Brackets.csprojAssemblyReference.cache
+C:\Users\andde\Downloads\Unity\c#\U_1_14\Brackets\obj\Debug\netcoreapp3.1\Brackets.AssemblyInfoInputs.cache
+C:\Users\andde\Downloads\Unity\c#\U_1_14\Brackets\obj\Debug\netcoreapp3.1\Brackets.AssemblyInfo.cs
+C:\Users\andde\Downloads\Unity\c#\U_1_14\Brackets\obj\Debug\netcoreapp3.1\Brackets.csproj.CoreCompileInputs.cache
+C:\Users\andde\Downloads\Unity\c#\U_1_14\Brackets\obj\Debug\netcoreapp3.1\Brackets.dll
+C:\Users\andde\Downloads\Unity\c#\U_1_14\Brackets\obj\Debug\netcoreapp3.1\Brackets.pdb

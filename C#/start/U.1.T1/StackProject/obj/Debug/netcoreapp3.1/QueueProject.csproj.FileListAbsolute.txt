@@ -1,0 +1,13 @@
+C:\Users\andde\Downloads\Unity\c#\U_1_15\QueueProject\bin\Debug\netcoreapp3.1\QueueProject.exe
+C:\Users\andde\Downloads\Unity\c#\U_1_15\QueueProject\bin\Debug\netcoreapp3.1\QueueProject.deps.json
+C:\Users\andde\Downloads\Unity\c#\U_1_15\QueueProject\bin\Debug\netcoreapp3.1\QueueProject.runtimeconfig.json
+C:\Users\andde\Downloads\Unity\c#\U_1_15\QueueProject\bin\Debug\netcoreapp3.1\QueueProject.runtimeconfig.dev.json
+C:\Users\andde\Downloads\Unity\c#\U_1_15\QueueProject\bin\Debug\netcoreapp3.1\QueueProject.dll
+C:\Users\andde\Downloads\Unity\c#\U_1_15\QueueProject\bin\Debug\netcoreapp3.1\QueueProject.pdb
+C:\Users\andde\Downloads\Unity\c#\U_1_15\QueueProject\obj\Debug\netcoreapp3.1\QueueProject.csprojAssemblyReference.cache
+C:\Users\andde\Downloads\Unity\c#\U_1_15\QueueProject\obj\Debug\netcoreapp3.1\QueueProject.AssemblyInfoInputs.cache
+C:\Users\andde\Downloads\Unity\c#\U_1_15\QueueProject\obj\Debug\netcoreapp3.1\QueueProject.AssemblyInfo.cs
+C:\Users\andde\Downloads\Unity\c#\U_1_15\QueueProject\obj\Debug\netcoreapp3.1\QueueProject.csproj.CoreCompileInputs.cache
+C:\Users\andde\Downloads\Unity\c#\U_1_15\QueueProject\obj\Debug\netcoreapp3.1\QueueProject.dll
+C:\Users\andde\Downloads\Unity\c#\U_1_15\QueueProject\obj\Debug\netcoreapp3.1\QueueProject.pdb
+C:\Users\andde\Downloads\Unity\c#\U_1_15\QueueProject\obj\Debug\netcoreapp3.1\QueueProject.genruntimeconfig.cache

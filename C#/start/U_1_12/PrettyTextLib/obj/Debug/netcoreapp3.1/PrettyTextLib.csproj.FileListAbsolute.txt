@@ -1,0 +1,9 @@
+C:\Users\andde\Downloads\Unity\c#\U_1_13\PrettyTextLib\bin\Debug\netcoreapp3.1\PrettyTextLib.deps.json
+C:\Users\andde\Downloads\Unity\c#\U_1_13\PrettyTextLib\bin\Debug\netcoreapp3.1\PrettyTextLib.dll
+C:\Users\andde\Downloads\Unity\c#\U_1_13\PrettyTextLib\bin\Debug\netcoreapp3.1\PrettyTextLib.pdb
+C:\Users\andde\Downloads\Unity\c#\U_1_13\PrettyTextLib\obj\Debug\netcoreapp3.1\PrettyTextLib.csprojAssemblyReference.cache
+C:\Users\andde\Downloads\Unity\c#\U_1_13\PrettyTextLib\obj\Debug\netcoreapp3.1\PrettyTextLib.AssemblyInfoInputs.cache
+C:\Users\andde\Downloads\Unity\c#\U_1_13\PrettyTextLib\obj\Debug\netcoreapp3.1\PrettyTextLib.AssemblyInfo.cs
+C:\Users\andde\Downloads\Unity\c#\U_1_13\PrettyTextLib\obj\Debug\netcoreapp3.1\PrettyTextLib.csproj.CoreCompileInputs.cache
+C:\Users\andde\Downloads\Unity\c#\U_1_13\PrettyTextLib\obj\Debug\netcoreapp3.1\PrettyTextLib.dll
+C:\Users\andde\Downloads\Unity\c#\U_1_13\PrettyTextLib\obj\Debug\netcoreapp3.1\PrettyTextLib.pdb

@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Geometry">
+      <HintPath>..\Geometry\bin\Debug\netcoreapp3.1\Geometry.dll</HintPath>
+    </Reference>
+    <Reference Include="PrettyText">
+      <HintPath>..\PrettyText\bin\Debug\netcoreapp3.1\PrettyText.dll</HintPath>
+    </Reference>
+    <Reference Include="PrettyTextLib">
+      <HintPath>..\PrettyTextLib\bin\Debug\netcoreapp3.1\PrettyTextLib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
