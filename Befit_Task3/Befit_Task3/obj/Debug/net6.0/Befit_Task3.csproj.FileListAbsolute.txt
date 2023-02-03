@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\Befit_Task3\Befit_Task3\bin\Debug\net6.0\Befit_Task3.exe
+C:\Users\Lenovo\source\repos\Befit_Task3\Befit_Task3\bin\Debug\net6.0\Befit_Task3.deps.json
+C:\Users\Lenovo\source\repos\Befit_Task3\Befit_Task3\bin\Debug\net6.0\Befit_Task3.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Befit_Task3\Befit_Task3\bin\Debug\net6.0\Befit_Task3.dll
+C:\Users\Lenovo\source\repos\Befit_Task3\Befit_Task3\bin\Debug\net6.0\Befit_Task3.pdb
+C:\Users\Lenovo\source\repos\Befit_Task3\Befit_Task3\obj\Debug\net6.0\Befit_Task3.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Befit_Task3\Befit_Task3\obj\Debug\net6.0\Befit_Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Befit_Task3\Befit_Task3\obj\Debug\net6.0\Befit_Task3.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Befit_Task3\Befit_Task3\obj\Debug\net6.0\Befit_Task3.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Befit_Task3\Befit_Task3\obj\Debug\net6.0\Befit_Task3.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Befit_Task3\Befit_Task3\obj\Debug\net6.0\Befit_Task3.dll
+C:\Users\Lenovo\source\repos\Befit_Task3\Befit_Task3\obj\Debug\net6.0\refint\Befit_Task3.dll
+C:\Users\Lenovo\source\repos\Befit_Task3\Befit_Task3\obj\Debug\net6.0\Befit_Task3.pdb
+C:\Users\Lenovo\source\repos\Befit_Task3\Befit_Task3\obj\Debug\net6.0\Befit_Task3.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\Befit_Task3\Befit_Task3\obj\Debug\net6.0\ref\Befit_Task3.dll
